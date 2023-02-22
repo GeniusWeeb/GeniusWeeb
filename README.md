@@ -9,6 +9,6 @@ Socials  <p align="left"> <a href="https://www.github.com/GeniusWeeb" target="_b
 <b> My GitHub Stats</b>
  
 <a href="http://www.github.com/GeniusWeeb"><img src="https://github-readme-stats.vercel.app/api?username=GeniusWeeb&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=0891b2&bg_color=#ffffff&hide_border=true&show_icons=true" alt="GeniusWeeb's GitHub stats" /></a>
-<a href="http://www.github.com/GeniusWeeb"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GeniusWeeb&bg_color=1c1917&color=ef4444&line=0891b2&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/GeniusWeeb"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GeniusWeeb&bg_color=#ffffff&color=ef4444&line=0891b2&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
