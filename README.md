@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>My name is Zim Anmol =================================================================================================================================  programmer ----------  I love to build things . Mini games , features , graphic pipelines. I dislike web dev :) We should always be learning !  * 🌍  I'm based in United Kingdom currently . * ✉️  You can contact me at [bartoemus@gmail.com](mailto:bartoemus@gmail.com) * 🧠  I'm learning Arm assembly , what a pain . * ⚡  I love Manchester City .
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>My name is Zim Anmol . <br> I am a programmer. <br>  I love to build things . Mini games , features , graphic pipelines. I dislike web dev :) We should always be learning !  * 🌍  I'm based in United Kingdom currently . * ✉️  You can contact me at [bartoemus@gmail.com](mailto:bartoemus@gmail.com) * 🧠  I'm learning Arm assembly , what a pain . * ⚡  I love Manchester City .
 
 ### Skills  
 
