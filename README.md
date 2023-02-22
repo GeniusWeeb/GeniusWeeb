@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zim Anmol =================================================================================================================================  programmer ----------  I love to build things . Mini games , features , graphic pipelines. I dislike web dev :) We should always be learning !  * 🌍  I'm based in United Kingdom currently . * ✉️  You can contact me at [bartoemus@gmail.com](mailto:bartoemus@gmail.com) * 🧠  I'm learning Arm assembly , what a pain . * ⚡  I love Manchester City .
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>My name is Zim Anmol =================================================================================================================================  programmer ----------  I love to build things . Mini games , features , graphic pipelines. I dislike web dev :) We should always be learning !  * 🌍  I'm based in United Kingdom currently . * ✉️  You can contact me at [bartoemus@gmail.com](mailto:bartoemus@gmail.com) * 🧠  I'm learning Arm assembly , what a pain . * ⚡  I love Manchester City .
 
 ### Skills  
 
@@ -11,4 +11,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/GeniusWeeb"><img src="https://github-readme-stats.vercel.app/api?username=GeniusWeeb&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GeniusWeeb's GitHub stats" /></a>
 <a href="http://www.github.com/GeniusWeeb"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GeniusWeeb&bg_color=1c1917&color=ef4444&line=0891b2&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/GeniusWeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusWeeb&langs_count=10&title_color=3382ed&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+
